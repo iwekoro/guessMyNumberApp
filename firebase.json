@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "guessMyNumber",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
